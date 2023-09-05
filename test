@@ -7,6 +7,9 @@ git pull
 git merge
 git fetch
 
-code not yet completed fully
+git stash 
+git rebase
+
+not yet comleted......
 
 
